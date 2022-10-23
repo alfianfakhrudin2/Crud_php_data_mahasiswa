@@ -1,3 +1,3 @@
 # Crud_php_data_mahasiswa
 Tampilan index :
-![image](https://user-images.githubusercontent.com/85886441/197403461-b25eb2e6-aefe-43be-8b7f-ab5ee10fec94.png)
+![image](https://user-images.githubusercontent.com/85886441/197403503-ddb9134a-5136-4851-bade-85a5e3301ac1.png)
